@@ -1,4 +1,4 @@
 # Repository-demo
 This is my first Git Repository.
 <br>
-Author - Gurpreet Singh
+Author - The Gurpreet Singh.
